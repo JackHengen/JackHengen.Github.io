@@ -6,8 +6,12 @@ For sure:
 Nav is gonna be a dropdown menu - animated to slide out - 
 Add navs to everything
 Stylize every page
+Have each movie be a fancy log
+Make fancy ratings for each movie
 
 For future:
 Alert when crossword is ready and worldle is ready-maybe be able to embed somehow
 Upload images straight torwards the website and have it pop up
 Images class with a desc and a category and a time etc.-sort by, get random feature with more info
+Be able to add movies to list of to watch
+SONG LIST, Playlist for each other to list or something.
