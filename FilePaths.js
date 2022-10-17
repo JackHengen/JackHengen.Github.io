@@ -56,7 +56,6 @@ ImagePaths =[
 "Sleep (3).JPG",
 "Sleep(3).jpg",
 "Sleep.JPG",
-"SydInJacksClothes.JPG",
 "SydJack (2).JPG",
 "SydJack (3).JPG",
 "SydJack (4).JPG",
@@ -76,3 +75,9 @@ VideoPaths=[
     "Funny.MOV",
     "Funny(2).MOV"
 ]
+
+class SackImage{
+    constructor(path){
+        this.path=path;
+    }
+}
