@@ -2,7 +2,7 @@ Fix:
 Load images quicker
 
 For sure:
-Stylize every page
+Add more styles and shit
 Have each movie be a fancy log
 Make fancy ratings for each movie
 Images class with a desc and a category and a time etc.-sort by, get random feature with more info
@@ -10,6 +10,7 @@ Images class with a desc and a category and a time etc.-sort by, get random feat
 Photos - custom border by stacking the border photo on top of the photo OR border-image
 
 For future:
+Themes for xmas and other holidays
 Slideshow on homemenu or somewhere
 Alert when crossword is ready and worldle is ready-maybe be able to embed somehow
 Upload images straight torwards the website and have it pop up
