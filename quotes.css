@@ -1,0 +1,27 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div:nth-child(odd){
+    position:relative;
+    left:40%;
+}
+div:nth-child(even){
+    position:relative;
+    left:10%;
+}
+.quote{
+    border: .5em solid black;
+    width: 50%;
+    margin-bottom:2em;
+    padding:.5em
+}
+
+
+#sackImage{
+    height:3em;
+    width:auto;
+}
+#sackImage:hover{
+    transform: scale(1.2);
+}

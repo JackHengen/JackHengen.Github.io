@@ -1,0 +1,24 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#Container{
+    display:flex;
+    justify-content: center;
+}
+p{
+    width:60%;
+    margin: 1%;
+    padding:1%;
+}
+
+
+
+
+#sackImage{
+    height:3em;
+    width:auto;
+}
+#sackImage:hover{
+    transform: scale(1.2);
+}

@@ -1,0 +1,32 @@
+:root {
+    --green:#0d5d56;
+    --purple:#705ba6;
+    --pink:#ff58a6;
+    --black:#0d0c1d;
+    --tan:#f1dac4;
+}
+body{
+    color:white;
+    background: linear-gradient(0deg,#705ba6, #0d5d56);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+}
+img{
+    width:39%;height:auto;
+    margin: 5%;
+    border-image-source: url(Resources/flowerborder.png);
+    border-image-slice: 389, 300, 412, 366; /*left 366 top 389 right 330 bottom 412*/
+    border-image-repeat: stretch;
+    border-image-width: 10px;
+}
+
+
+#sackImage{
+    height:3em;
+    width:auto;
+}
+#sackImage:hover{
+    transform: scale(1.2);
+}
